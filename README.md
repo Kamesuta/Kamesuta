@@ -1,5 +1,5 @@
 ## Link
-- [YouTube](https://youtube.com/Kamesuta7)
+- [YouTube](https://youtube.com/Kamesuta)
 - [Twitter](https://twitter.com/Kmesuta)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
